@@ -16,7 +16,7 @@ jobs:
   
     steps:
       - name: Clone repository
-        uses: parker123/parkersa364@gmail.com
+        uses: parkersa123/parkersa364@gmail.com
 
       - name: Auto green
         run: |
